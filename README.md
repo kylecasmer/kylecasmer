@@ -1,4 +1,4 @@
-<h1>Hi, I'm kyle, an <a href="https://linkedin.com/in/kyle-casmer1">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kyle, an <a href="https://linkedin.com/in/kyle-casmer1">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
